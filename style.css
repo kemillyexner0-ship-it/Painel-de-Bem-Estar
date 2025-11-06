@@ -1,0 +1,84 @@
+ody {
+    font-family: 'Arial', sans-serif;
+    background-color: #e3f2fd;
+    margin: 0;
+    padding: 0;
+  }
+ 
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+ 
+  h1 {
+    color: #1565c0;
+  }
+ 
+  .mensagem-inicial {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #333;
+  }
+ 
+  form input {
+    padding: 10px;
+    width: 70%;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+ 
+  form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #42a5f5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+ 
+  form button:hover,
+  #mensagemBtn:hover {
+    background-color: #1e88e5;
+  }
+ 
+  #humorRegistrado {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #2e7d32;
+  }
+ 
+  #mensagemBtn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #00eeff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+ 
+  #mensagemContainer {
+    margin-top: 20px;
+  }
+ 
+  #mensagemMotivacional {
+    font-size: 18px;
+    color: #1f1e1e;
+  }
+ 
+  #imagemHumor {
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+ 
